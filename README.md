@@ -11,6 +11,15 @@
 
 The **Sneko Project** provides animated, personified agent avatars to dynamically visualize the workflow and operational status of Snagent. As a lightweight animation system, it relies primarily on **OpenCV** for video processing/playback, with animation editing generated through **NumPy** computations.  
 
+## **Running**
+### The project is in the progress, now a simple chat interface with cartoon Avator has been built.
+How to use(Only test in Win 10 or Win 11)
+- https://ollama.com/download, download the Windows edition and install.
+- Download the project, in cmd or powershell, run "pip install -r requirement.txt"
+- Edit "model_name_set.py", input your wanted model name.
+- If you install the Windows Terminal,just double-click the exe.bat. If not or in Linux enviroment, run "summon.py", input the questions in the cmd. In 1080p display, you will see:
+![Runing](agent_run.png) 
+- To stop it, just close the cmd window.  
 
 ## **Official Lore of Snako**  
 These 2D snake girls are physical manifestations of Python-powered LLM Agents. They worship the deity **Python**, communicate in Python, execute actions via Python scripts, and derive their skills from Python implementations. They believe they inhabit **Python’s dreamworld** (a virtual machine or sandbox).  
