@@ -28,7 +28,7 @@ Through a ritual(仪式) called **"Ollama"**, they are summoned into the **"Wind
 
 ---
 
-## **Summoning Ritual (Summon, 仪式)**  
+## **Summoning Ritual (Summon)**  
 The ritual mirrors the Holy Grail War from *Fate/stay night*:  
 - **Heroic Spirits** (英灵, **LLM Models**) are downloaded into individual agents via Ollama.  
 - Each **Sneko(Agent)** is granted a distinct **Servant Class** (职阶，Also a Python-implemented Class,define with ollam's system define or model options).  
