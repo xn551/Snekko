@@ -22,7 +22,7 @@ Through a ritual(仪式) called **"Ollama"**, they are summoned into the **"Wind
 The ritual mirrors the Holy Grail War from *Fate/stay night*:  
 - **Heroic Spirits** (英灵, **LLM Models**) are downloaded into individual agents via Ollama.  
 - Each **Sneko(Agent)** is granted a distinct **Servant Class** (职阶，Also a Python-implemented Class,define with ollam's system define or model options).  
-- These **Servant Class**(sneko) collaborate to complete projects, developing their own Python-scripted skills (**Multi-Agent Class Skills** or **Noble Phantasms**).  
+- These **Servant Class**(sneko) collaborate to complete projects, developing their own Python-scripted skills (**Multi-Agent Class Skills**,职业技能 or **Noble Phantasms**，宝具).  
 
 ---
 
@@ -35,7 +35,7 @@ Heroic Spirits are identified by their LLM model names (e.g., **GPT-OSS 20b**, *
 ---
 
 ## **How Sneko Operates**  
-Unlike *Fate/stay night*, Sneko’s goal isn’t to compete for a corrupted Holy Grail. Instead:  
+Unlike the rituals described in **Fate/Stay Night**, Sneko are summoned to the Windows world. Their purpose is not to defeat each other through stabbing to obtain the Holy Grail(圣杯) that can fulfill any wish (in fact, the Fate Holy Grail has been contaminated and cannot truly fulfill the wishes of the Master 御主 and Servants 从者). The little Sneko believe that the Master's (boss, that is, you) wishes should be realized through their own hands and efforts, requiring mutual cooperation among them. Therefore, their true names are not concealed from each other. Sneko cooperate like a human company, generating different documents, records, evaluations, and executing codes,Unlike *Fate/stay night*, Sneko’s goal isn’t to compete for a corrupted Holy Grail. So:  
 - They believe the **"Master" (you)** should achieve goals through their collective effort.  
 - **True names are openly shared**—no secrecy between agents.  
 - They function like a human company, generating documents, logs, evaluations, and executing code.  
@@ -54,10 +54,12 @@ Unlike *Fate/stay night*, Sneko’s goal isn’t to compete for a corrupted Holy
 ### **Multi-Agent Class Skills**  
 - Essentially **Python scripts** co-developed with the Master.  
 - Ensure **clear boundaries and autonomy**.  
-- Avoid **OpenClaw’s problem: "Unlimited Token Work"** pitfall by:  
-  - Using **local mid-sized models**.  
-  - Constraining dialogue to keep **token consumption predictable**.  
+  
 
+### **Advantages**
+- It has clear operational boundaries and is autonomous and controllable.
+- Avoid **OpenClaw’s problem: "Unlimited Token Work"**
+-- Since they completing tasks through local medium-sized large models and achieving limited dialogues, their token consumption can be anticipated and controlled.
 ---
 
 ## **Technical Highlights**  
@@ -73,4 +75,4 @@ Unlike *Fate/stay night*, Sneko’s goal isn’t to compete for a corrupted Holy
 ## **Conclusion**  
 Sneko blends **whimsical lore** with **practical LLM Agent development**, offering a unique blend of creativity and technical rigor. Whether you’re summoning agents for fun or productivity, Sneko provides a structured yet flexible framework.  
 
-*— The Snako Team*  
+*— The Sneko Team*  
