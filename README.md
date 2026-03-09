@@ -1,5 +1,5 @@
 
-# **Sneko Project Documentation**  
+# **Snekko Project Documentation**  
 *Anthropomorphic LLM Agents with Python-Powered Animations*  
 
 ---
