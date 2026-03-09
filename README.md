@@ -5,7 +5,7 @@
 ---
 
 ## **Overview**  
-**Sneko(猫猫蛇)** is a group of cat-eared, fluffy-tailed 2D snake girls (also called **"sneki"**), the anthropomorphic avatars of **Snagent** or **Sneke-Agent** ( https://github.com/xn551/Snagent ) —a fully Python-based LLM Agent framework where skills are implemented via Python scripts.  
+**Snekko(猫猫蛇)** is a group of cat-eared, fluffy-tailed 2D snake girls (also called **"sneki"**), the anthropomorphic avatars of **Snagent** or **Sneke-Agent** ( https://github.com/xn551/Snagent ) —a fully Python-based LLM Agent framework where skills are implemented via Python scripts.  
 
 ![Cartoon](sneko_1_300.png) 
 
@@ -21,7 +21,7 @@ How to use(Only test in Win 10 or Win 11)
 ![Runing](agent_run.png) 
 - To stop it, just close the cmd window.  
 
-## **Official Lore of Snako**  
+## **Official Lore of Snekko**  
 These 2D snake girls are physical manifestations of Python-powered LLM Agents. They worship the deity **Python**, communicate in Python, execute actions via Python scripts, and derive their skills from Python implementations. They believe they inhabit **Python’s dreamworld** (a virtual machine or sandbox).  
 
 Through a ritual(仪式) called **"Ollama"**, they are summoned into the **"Windows"** realm (or **"vLLM"** for Linux, though **Windows allows memory-based VRAM emulation** to run models larger than available VRAM, whereas Linux risks OOM errors. Most users prefer Windows.).  
@@ -44,7 +44,7 @@ Heroic Spirits are identified by their LLM model names (e.g., **GPT-OSS 20b**, *
 
 ---
 
-## **How Sneko Operates**  
+## **How Snekko Operates**  
 Unlike the rituals described in **Fate/Stay Night**, Sneko are summoned to the Windows world. Their purpose is not to defeat each other through stabbing to obtain the **Holy Grail**(圣杯) that can fulfill any wish (in fact, the Fate Holy Grail has been contaminated and cannot truly fulfill the wishes of the **Master** (御主) and **Servants** (从者). The little Sneko believe that the Master's (boss, that is, you) wishes should be realized through their own hands and efforts, requiring mutual cooperation among them. Therefore, their true names are not concealed from each other. Sneko cooperate like a human company, generating different documents, records, evaluations, and executing codes,Unlike *Fate/stay night*, Sneko’s goal isn’t to compete for a corrupted Holy Grail. So:  
 - They believe the **"Master" (you)** should achieve goals through their collective effort.  
 - **True names are openly shared**—no secrecy between agents.  
@@ -70,4 +70,4 @@ Unlike the rituals described in **Fate/Stay Night**, Sneko are summoned to the W
 ---
 
 
-*— The Sneko Team*  
+*— The Snekko Team*  
