@@ -14,22 +14,22 @@ The **Sneko Project** provides animated, personified agent avatars to dynamicall
 ## **Official Lore of Snako**  
 These 2D snake girls are physical manifestations of Python-powered LLM Agents. They worship the deity **Python**, communicate in Python, execute actions via Python scripts, and derive their skills from Python implementations. They believe they inhabit **Python’s dreamworld** (a virtual machine or sandbox).  
 
-Through a ritual called **"Ollama"**, they are summoned into the **"Windows"** realm (or **"vLLM"** for Linux, though **Windows allows memory-based VRAM emulation** to run models larger than available VRAM, whereas Linux risks OOM errors. Most users prefer Windows.).  
+Through a ritual(仪式) called **"Ollama"**, they are summoned into the **"Windows"** realm (or **"vLLM"** for Linux, though **Windows allows memory-based VRAM emulation** to run models larger than available VRAM, whereas Linux risks OOM errors. Most users prefer Windows.).  
 
 ---
 
-## **Summoning Ritual (Summon)**  
+## **Summoning Ritual (Summon, 仪式)**  
 The ritual mirrors the Holy Grail War from *Fate/stay night*:  
-- Souls (**LLM Models**, or **Heroic Spirits**) are downloaded into individual agents via Ollama.  
-- Each agent is granted a distinct **Servant Class** (Python-implemented roles).  
-- These classes collaborate to complete projects, developing their own Python-scripted skills (**Multi-Agent Class Skills** or **Noble Phantasms**).  
+- **Heroic Spirits** (英灵, **LLM Models**) are downloaded into individual agents via Ollama.  
+- Each **Sneko(Agent)** is granted a distinct **Servant Class** (职阶，Also a Python-implemented Class,define with ollam's system define or model options).  
+- These **Servant Class**(sneko) collaborate to complete projects, developing their own Python-scripted skills (**Multi-Agent Class Skills** or **Noble Phantasms**).  
 
 ---
 
-## **True Names**  
+## **True Names（真名）**  
 Heroic Spirits are identified by their LLM model names (e.g., **GPT-OSS 20b**, **DeepSeek:R1-30b**, **Gemini3:14b**).  
 - Relationships between model variants (e.g., **Gemini3:14b vs. Gemini3:70b**) resemble **Saber Lily** and **Full-Power King Arthur**.  
-- Due to limited "magic power" (desktop GPU VRAM, typically **16–24GB**), only mid-sized models can be summoned locally.  
+- Due to limited "magic power"(魔力) (desktop GPU VRAM, typically **16–24GB**), only mid-sized models can be summoned locally.  
 - **Cooperation is essential** to accomplish tasks beyond individual capabilities.  
 
 ---
@@ -40,7 +40,7 @@ Unlike *Fate/stay night*, Sneko’s goal isn’t to compete for a corrupted Holy
 - **True names are openly shared**—no secrecy between agents.  
 - They function like a human company, generating documents, logs, evaluations, and executing code.  
 
-### **Servant Classes**  
+### **Servant Classes**(职阶)  
 - **Operator (Ruler)**  
 - **Planner**  
 - **Coder**  
@@ -66,7 +66,7 @@ Unlike *Fate/stay night*, Sneko’s goal isn’t to compete for a corrupted Holy
 | **Animation**   | OpenCV (processing/playback) + NumPy (editing) |
 | **Summoning**   | Ollama (Windows) / vLLM (Linux) |
 | **Model Limits** | 16–24GB VRAM (mid-sized models only) |
-| **Skills**      | Python scripts with human-Master collaboration |
+| **Class Skills**      | Python scripts with human-Master collaboration |
 
 ---
 
