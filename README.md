@@ -7,7 +7,7 @@
 ## **Overview**  
 **Sneko(猫猫蛇)** is a group of cat-eared, fluffy-tailed 2D snake girls (also called **"sneki"**), the anthropomorphic avatars of **Snagent** or **Sneke-Agent**—a fully Python-based LLM Agent framework where skills are implemented via Python scripts.  
 
-![Cartoon](sneko_1.png) 
+![Cartoon](sneko_1_300.png) 
 
 The **Sneko Project** provides animated, personified agent avatars to dynamically visualize the workflow and operational status of Snagent. As a lightweight animation system, it relies primarily on **OpenCV** for video processing/playback, with animation editing generated through **NumPy** computations.  
 
