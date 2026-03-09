@@ -63,7 +63,7 @@ Unlike the rituals described in **Fate/Stay Night**, Sneko are summoned to the W
 
 ### **Advantages**
 - It has clear operational boundaries and is autonomous and controllable.
-- Refulse the problem: **"Unlimited Token Work(UTW)"**
+- Refuse the problem: **"Unlimited Token Work(UTW)"**
 -- Since they completing tasks through local medium-sized large models and achieving limited dialogues, their token consumption can be anticipated and controlled.
 ---
 
