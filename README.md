@@ -50,30 +50,15 @@ Unlike the rituals described in **Fate/Stay Night**, Sneko are summoned to the W
 - **Reviewer**  
 - **Adviser**  
 - **Evaluator (HR)**  
-- *(...and more)*  
-
-### **Multi-Agent Class Skills**  
-- Essentially **Python scripts** co-developed with the Master.  
-- Ensure **clear boundaries and autonomy**.  
-  
+- *(...and more)*   
 
 ### **Advantages**
 - It has clear operational boundaries and is autonomous and controllable.
-- Avoid **OpenClaw’s problem: "Unlimited Token Work"**
+- Refulse the problem: **"Unlimited Token Work(UTW)"**
 -- Since they completing tasks through local medium-sized large models and achieving limited dialogues, their token consumption can be anticipated and controlled.
 ---
 
-## **Technical Highlights**  
-| Component       | Description |
-|-----------------|------------|
-| **Animation**   | OpenCV (processing/playback) + NumPy (editing) |
-| **Summoning**   | Ollama (Windows) / vLLM (Linux) |
-| **Model Limits** | 16–24GB VRAM (mid-sized models only) |
-| **Class Skills**      | Python scripts with human-Master collaboration |
-
 ---
 
-## **Conclusion**  
-Sneko blends **whimsical lore** with **practical LLM Agent development**, offering a unique blend of creativity and technical rigor. Whether you’re summoning agents for fun or productivity, Sneko provides a structured yet flexible framework.  
 
 *— The Sneko Team*  
