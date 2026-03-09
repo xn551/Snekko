@@ -9,6 +9,10 @@
 
 The **Sneko Project** provides animated, personified agent avatars to dynamically visualize the workflow and operational status of Snagent. As a lightweight animation system, it relies primarily on **OpenCV** for video processing/playback, with animation editing generated through **NumPy** computations.  
 
+## Pictrues
+<div align="center">
+    <img src="sneko_1.png" width="30%" alt="..."/>
+</div>
 ---
 
 ## **Official Lore of Snako**  
